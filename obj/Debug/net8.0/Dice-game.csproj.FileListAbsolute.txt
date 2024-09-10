@@ -12,3 +12,4 @@ C:\Users\HP\C#-Repository\Dice-game\C#-Repository\Dice-game\obj\Debug\net8.0\ref
 C:\Users\HP\C#-Repository\Dice-game\C#-Repository\Dice-game\obj\Debug\net8.0\Dice-game.pdb
 C:\Users\HP\C#-Repository\Dice-game\C#-Repository\Dice-game\obj\Debug\net8.0\Dice-game.genruntimeconfig.cache
 C:\Users\HP\C#-Repository\Dice-game\C#-Repository\Dice-game\obj\Debug\net8.0\ref\Dice-game.dll
+C:\Users\HP\C#-Repository\Dice-game\C#-Repository\Dice-game\obj\Debug\net8.0\Dice-game.sourcelink.json
